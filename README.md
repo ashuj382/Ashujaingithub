@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ashu Jain</h1>
-<h3 align="center">A passionate about Data Analyst and Business Analyst</h3>
+<h3 align="center">A passionate Data Analyst & Business Analyst Enthusiast</h3>
+👩‍💻 I am a Data enthusiast and like to play with Data
+
+🌱 I’m currently learning and exploring Excel, Python, Machine Learning, Deep Learning, PowerBI, Tablue, SQL, etc
+
+🔭 I’m currently working on Stock Price Prediction
+
+👩‍💻 All of my projects are available at https://github.com/ashuj382/Ashujaingithub
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashujaingithub&label=Profile%20views&color=0e75b6&style=flat" alt="ashujaingithub" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashujaingithub" alt="ashujaingithub" /></a> </p>
 
-- 💬 Ask me about **Data Science Projects,Data Analysis**
+- 💬 Ask me about **Data Science Projects,Data Analysis **
 
 - 📫 How to reach me **jashu3860@gmail.com**
 
